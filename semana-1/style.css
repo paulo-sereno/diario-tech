@@ -1,0 +1,22 @@
+body {
+    background-color: #121e29;
+}
+header h1 {
+    color: orange;
+    font-family: arial;
+    font-size: 200px;
+    text-align: center
+}
+header h2 {
+    color: lightblue;
+    font-family: arial;
+    font-size: 80px;
+    text-align: center
+}
+footer {
+    background-color: #121e29;
+    color: white;
+    font-family: arial;
+    font-size: 20px;
+    text-align: center
+}
