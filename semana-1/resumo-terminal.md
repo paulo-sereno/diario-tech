@@ -1,0 +1,11 @@
+# 10 comando mais úteis:
+- pwd - para saber "onde estou"
+- cd ~ - para ir para o meu user
+- cd .. - para retroceder uma pasta
+- mkdir - para criar pasta
+- ni - para criar item
+- git init - para iniciar repo
+- git add - para adicionar no git
+- git commit m- para dar commit com mensagem
+- git push - para enviar para o repo
+- ls - para verificar conteúdo na pasta
